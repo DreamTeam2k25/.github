@@ -1,7 +1,6 @@
 # DreamTeam2k25 - Building the Future Together 👨💻🚀
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/DreamTeam2k25?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/DreamTeam2k25/DreamTeam2k25?color=blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Bem-vindo à organização **DreamTeam2k25**! Somos um grupo de cinco desenvolvedores apaixonados por tecnologia, colaborando em projetos inovadores para transformar ideias em realidade. Aqui, unimos habilidades diversas para construir soluções criativas e eficientes.
@@ -33,9 +32,9 @@ Sistema de análise de dados em tempo real com visualizações interativas e das
 ## 🛠 Tecnologias Utilizadas
 
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- **Frontend**: ![VueJs](https://img.shields.io/badge/-Vuejs-3FB17F?logo=vue&logoColor=black)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+- **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-232F3E?logo=Heroku)
 - **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
 ---
